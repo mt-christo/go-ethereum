@@ -28,7 +28,7 @@ import (
 	"runtime"
 	"strconv"
 	"strings"
-	"time" 
+	"time"
 
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/mclock"
